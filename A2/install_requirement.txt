@@ -1,0 +1,1 @@
+pip install rapidfuzz rank_bm25
